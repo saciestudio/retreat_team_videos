@@ -11,7 +11,7 @@ attachments :
 
 
 *** =video_hls 
-//videos.datacamp.com/transcoded/000_non-course_videos/retreat_2016_september/v1/hls-MGMT_SELECT_1.master.m3u8
+//videos.datacamp.com/transcoded/000_non-course_videos/retreat_2016_september/v1/hls-MGMT_SELECT_2.master.m3u8
 
 
 --- type:VideoExercise lang:r xp: skills: key:d4d2cda58f
@@ -27,7 +27,7 @@ attachments :
 
 
 *** =video_hls 
-//videos.datacamp.com/transcoded/000_non-course_videos/retreat_2016_september/v1/hls-ENG_Video_Final.master.m3u8
+//videos.datacamp.com/transcoded/000_non-course_videos/retreat_2016_september/v1/hls-ENG_Video_Final_1.master.m3u8
 
 
 --- type:VideoExercise lang:r xp: skills: key:101f910317
