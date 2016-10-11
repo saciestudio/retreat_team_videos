@@ -19,7 +19,7 @@ attachments :
 
 
 *** =video_hls 
-//videos.datacamp.com/transcoded/000_non-course_videos/retreat_2016_september/v1/hls-CD_select.master.m3u8
+//videos.datacamp.com/transcoded/000_non-course_videos/retreat_2016_september/v1/hls-CD_select_1.master.m3u8
 
 
 --- type:VideoExercise lang:r xp: skills: key:cc112eace5
